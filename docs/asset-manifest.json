@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/blochsphere/static/css/main.e899d217.css",
+    "main.js": "/blochsphere/static/js/main.552cfdb4.js",
+    "static/js/453.1ee9a47d.chunk.js": "/blochsphere/static/js/453.1ee9a47d.chunk.js",
+    "static/media/logo.svg": "/blochsphere/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/blochsphere/index.html",
+    "main.e899d217.css.map": "/blochsphere/static/css/main.e899d217.css.map",
+    "main.552cfdb4.js.map": "/blochsphere/static/js/main.552cfdb4.js.map",
+    "453.1ee9a47d.chunk.js.map": "/blochsphere/static/js/453.1ee9a47d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e899d217.css",
+    "static/js/main.552cfdb4.js"
+  ]
+}

@@ -17,14 +17,12 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "clean": "rimraf docs",
+    "move": "shx mv build docs",
+    "deploy": "npm run build && npm run clean && npm run move"
   },
   
   "homepage": "https://ctokx.github.io/blochsphere",
-
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -44,6 +42,8 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "gh-pages": "^6.1.1",
+    "rimraf": "^5.0.5",
+    "shx": "^0.3.4"
   }
 }
