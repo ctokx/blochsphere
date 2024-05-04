@@ -11,7 +11,7 @@ My motivation for developing this simulator stems from the need to visualize qua
 - **Interactive Controls**: Manipulate the qubit state using simple controls to see how it affects the Bloch sphere.
 - **Educational Tool**: Ideal for students and educators in quantum mechanics or anyone interested in the basics of quantum computing.
 
-![Bloch Sphere Visual](images/Bloch-Sphere-Simulator.png "Bloch Sphere Visualization")
+![Bloch Sphere Visual](Bloch-Sphere-Simulator.png "Bloch Sphere Visualization")
 
 ## Feedback and Contributions
 I welcome any comments, feedback, or requests for further changes to improve the simulator. Don't hesitate to reach out to me at [c.tok@campus.lmu.de](mailto:c.tok@campus.lmu.de) with your suggestions or inquiries.
