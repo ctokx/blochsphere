@@ -19,7 +19,8 @@
     "build": "react-scripts build",
     "clean": "rimraf docs",
     "move": "shx mv build docs",
-    "deploy": "npm run build && npm run clean && npm run move"
+    "predeploy" : "npm run build",
+    "deploy" : "gh-pages -d build"
   },
   
   "homepage": "https://ctokx.github.io/blochsphere",
