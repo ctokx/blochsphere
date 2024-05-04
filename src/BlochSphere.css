@@ -1,0 +1,11 @@
+body {
+  background-color: "black";
+}
+@media (max-width: 1600px) {
+  .preclass {
+    font-size: 14px !important;
+  }
+  .rightside {
+    width: 60% !important;
+  }
+}
