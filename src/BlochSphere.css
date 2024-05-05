@@ -1,7 +1,7 @@
 body {
   background-color: "black";
 }
-@media (max-width: 1600px) {
+@media (max-width: 1630px) {
   .preclass {
     font-size: 14px !important;
   }

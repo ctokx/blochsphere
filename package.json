@@ -10,6 +10,7 @@
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-helmet": "^6.1.0",
     "react-scripts": "5.0.1",
     "three": "^0.164.1",
     "web-vitals": "^2.1.4"
@@ -19,10 +20,9 @@
     "build": "react-scripts build",
     "clean": "rimraf docs",
     "move": "shx mv build docs",
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
-  
   "homepage": "https://ctokx.github.io/blochsphere",
   "eslintConfig": {
     "extends": [
