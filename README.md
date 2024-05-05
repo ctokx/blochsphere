@@ -1,10 +1,7 @@
 # Bloch Sphere Simulator
 
 ## Introduction
-The Bloch Sphere Simulator is an interactive 3D visualizer designed to help students and enthusiasts understand the state of a qubit in quantum computing. This project was created as part of my coursework for an Introduction to Quantum Computing lecture during my MSc in Computer Science at Ludwig Maximilian University (LMU). The tool aims to provide a practical, visual way to grasp complex quantum mechanics concepts through an intuitive graphical interface.
-
-## Inspiration
-My motivation for developing this simulator stems from the need to visualize quantum states beyond the abstract equations typically presented in textbooks. The lecture series at LMU, which delved into the foundational aspects of quantum computing, significantly influenced this project's inception and development. This simulator is intended to complement theoretical studies with a tangible, interactive experience.
+The Bloch Sphere Simulator is an interactive 3D visualizer designed to help students and enthusiasts understand the state of a qubit in quantum computing. The tool aims to provide a practical, visual way to grasp quantum mechanics concepts through an intuitive graphical interface.
 
 ## Features
 - **3D Visualization**: View the state of a qubit on a Bloch sphere in three dimensions.
